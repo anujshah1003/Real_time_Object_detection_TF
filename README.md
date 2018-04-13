@@ -9,4 +9,4 @@ For running the object detection on image files run the object_detection_tutoria
 
 For running the object detection in realtime with web camera run the object_detection_webcam.py
 
-The official tensorflow object detection API link is https://github.com/tensorflow/models/tree/master/object_detection
+The official tensorflow object detection API link is https://github.com/tensorflow/models/tree/master/research/object_detection
