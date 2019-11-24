@@ -3,6 +3,8 @@ This is an implementation of tensor flow object detection API for running it in 
 
 The video tutorial for the same is at : https://www.youtube.com/watch?v=MoMjIwGSFVQ
 
+This video is the direct implementation of sentdex tutorial video: https://www.youtube.com/watch?v=COlbP62-B-U
+
 Download the object_recognition_detection.zip
 
 For running the object detection on image files run the object_detection_tutorial.py
